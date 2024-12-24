@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Elimu4Tech
+- 👋 Hi, I’m @cforcafrica
 - 👀 I’m interested in  Software Development 
 - 💞️ I’m looking to collaborate on tech and non tech ethusiasts.
 - 📫 How to reach me through my email elimu4tech@gmail.com.
